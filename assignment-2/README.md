@@ -21,3 +21,4 @@ Create a `colcon` package `<your-name>_opencv_setup` which contains two nodes:
 * Push your changes using the command git push `git push -u origin <your-branch-name>`
 * Go to your repository on GitHub, you'll see a Compare & pull request button. Click on that button.
 * Now submit the pull request.
+* You can go ahead and delete your fork of this repository.
